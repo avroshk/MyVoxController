@@ -13,9 +13,9 @@ https://github.com/avroshk/MyVoxController/blob/master/apps/myApps/myVoxControll
 **Architecture**
 
 myFeatures ->  main  <-ofApp (Openframeworks flow)
-<\t> ^
-                |
-            myReadAudio 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ^
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;myReadAudio 
 
 
 
