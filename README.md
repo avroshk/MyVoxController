@@ -6,5 +6,16 @@ https://github.com/avroshk/MyVoxController/blob/master/apps/myApps/myVoxControll
 
 **Platform**
 
-<p>I chose openframeworks platform to implement the vocal controlled game. It has a comprehensive wrapper over OpenGL. For me it was the perfect platform to implement graphics and audio in C++.</p>
+<p>I chose <a href="http://openframeworks.cc/documentation/">openframeworks</a> platform to implement the vocal controlled game. It has a comprehensive wrapper over OpenGL. For me it was the perfect platform to implement graphics and audio in C++.</p>
+
+**Source Code** <a href="https://github.com/avroshk/MyVoxController/tree/master/apps/myApps/myVoxControllerGame/src">Click here</a>
+
+**Architecture**
+
+myFeatures ->  main  <-ofApp (Openframeworks flow)
+                ^
+                |
+            myReadAudio 
+
+
 
