@@ -25,7 +25,11 @@ myFeatures ->  main  <-ofApp (Openframeworks flow) <br />
 
 **Gameplay**
 
-I ran out of time before I could implement a gameplay that makes sense. The game lacks an objective or a scoring mechanisn. Currently, you can see a bar graph of the pitch chroma that you can control by whistling into the app.
+<p>I ran out of time before I could implement a gameplay that makes sense. The game lacks an objective or a scoring mechanisn. Currently, you can see a bar graph of the pitch chroma that you can control by whistling into the app. Whistling a pitch starts dropping objects at a location. You can control where the objects is dropped by changing the pitch.</p>
+
+
+
+
 
 
 
