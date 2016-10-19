@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworks/math/ofQuaternion.cpp \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworks/math/ofQuaternion.cpp \
   ../../../../libs/openFrameworks/math/ofQuaternion.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
   ../../../../libs/openFrameworks/math/ofVec3f.h \
@@ -9,4 +9,4 @@ dependencies: \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
   ../../../../libs/openFrameworks/math/ofMatrix4x4.h \
   ../../../../libs/openFrameworks/math/ofMath.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h

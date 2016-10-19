@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworks/app/ofAppGlutWindow.cpp \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworks/app/ofAppGlutWindow.cpp \
   ../../../../libs/openFrameworks/app/ofAppGlutWindow.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
   ../../../../libs/openFrameworks/app/ofAppBaseWindow.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
   ../../../../libs/poco/include/Poco/Mutex.h \
   ../../../../libs/poco/include/Poco/Foundation.h \
   ../../../../libs/poco/include/Poco/Config.h \
@@ -22,7 +22,7 @@ dependencies: \
   ../../../../libs/poco/include/Poco/Exception.h \
   ../../../../libs/poco/include/Poco/ScopedLock.h \
   ../../../../libs/poco/include/Poco/Mutex_POSIX.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworks/events/ofEvents.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworks/events/ofEvents.h \
   ../../../../libs/openFrameworks/events/ofEventUtils.h \
   ../../../../libs/poco/include/Poco/PriorityEvent.h \
   ../../../../libs/poco/include/Poco/AbstractEvent.h \
@@ -52,27 +52,27 @@ dependencies: \
   ../../../../libs/poco/include/Poco/FunctionPriorityDelegate.h \
   ../../../../libs/openFrameworks/events/ofDelegate.h \
   ../../../../libs/openFrameworks/app/ofBaseApp.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.h \
   ../../../../libs/openFrameworks/types/ofRectangle.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.h \
   ../../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../../libs/poco/include/Poco/File.h \
   ../../../../libs/poco/include/Poco/File_UNIX.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
   ../../../../libs/poco/include/Poco/Path.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLUtils.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLUtils.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.h \
   ../../../../libs/openFrameworks/math/ofQuaternion.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.h \
   ../../../../libs/openFrameworks/app/ofAppRunner.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLProgrammableRenderer.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLProgrammableRenderer.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.h \
   ../../../../libs/openFrameworks/gl/ofShader.h \
   ../../../../libs/openFrameworks/gl/ofTexture.h \
   ../../../../libs/openFrameworks/gl/ofVboMesh.h \
   ../../../../libs/openFrameworks/gl/ofVbo.h \
   ../../../../libs/poco/include/Poco/RegularExpression.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMatrixStack.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMatrixStack.h \
   ../../../../libs/openFrameworks/app/../../../libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glut.h

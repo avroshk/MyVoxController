@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworks/utils/ofThread.cpp \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworks/utils/ofThread.cpp \
   ../../../../libs/openFrameworks/utils/ofThread.h \
   ../../../../libs/poco/include/Poco/AtomicCounter.h \
   ../../../../libs/poco/include/Poco/Foundation.h \
@@ -23,11 +23,11 @@ dependencies: \
   ../../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
   ../../../../libs/openFrameworks/utils/ofLog.h \

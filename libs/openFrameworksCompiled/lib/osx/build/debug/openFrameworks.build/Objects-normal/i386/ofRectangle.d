@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworks/types/ofRectangle.cpp \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworks/types/ofRectangle.cpp \
   ../../../../libs/openFrameworks/types/ofRectangle.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
   ../../../../libs/openFrameworks/types/ofPoint.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.h \
   ../../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../../libs/poco/include/Poco/File.h \
   ../../../../libs/poco/include/Poco/Foundation.h \
@@ -19,9 +19,9 @@ dependencies: \
   ../../../../libs/poco/include/Poco/Types.h \
   ../../../../libs/poco/include/Poco/Timestamp.h \
   ../../../../libs/poco/include/Poco/File_UNIX.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/avrosh/Documents/of_v0.8.4_osx_release\ copy/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/avrosh/Documents/MyVoxController/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
   ../../../../libs/poco/include/Poco/Mutex.h \
   ../../../../libs/poco/include/Poco/Exception.h \
   ../../../../libs/poco/include/Poco/ScopedLock.h \
